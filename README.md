@@ -1,1 +1,1 @@
-# week9
+# week-9-lecture-exercises
